@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tumelo-rambanapasi/moviesApp/static/css/main.01aba623.css",
-    "main.js": "/tumelo-rambanapasi/moviesApp/static/js/main.cd783489.js",
-    "static/js/453.b12a1191.chunk.js": "/tumelo-rambanapasi/moviesApp/static/js/453.b12a1191.chunk.js",
-    "index.html": "/tumelo-rambanapasi/moviesApp/index.html",
-    "main.01aba623.css.map": "/tumelo-rambanapasi/moviesApp/static/css/main.01aba623.css.map",
-    "main.cd783489.js.map": "/tumelo-rambanapasi/moviesApp/static/js/main.cd783489.js.map",
-    "453.b12a1191.chunk.js.map": "/tumelo-rambanapasi/moviesApp/static/js/453.b12a1191.chunk.js.map"
+    "main.css": "/moviesApp/static/css/main.01aba623.css",
+    "main.js": "/moviesApp/static/js/main.7fc584e2.js",
+    "static/js/453.b12a1191.chunk.js": "/moviesApp/static/js/453.b12a1191.chunk.js",
+    "index.html": "/moviesApp/index.html",
+    "main.01aba623.css.map": "/moviesApp/static/css/main.01aba623.css.map",
+    "main.7fc584e2.js.map": "/moviesApp/static/js/main.7fc584e2.js.map",
+    "453.b12a1191.chunk.js.map": "/moviesApp/static/js/453.b12a1191.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01aba623.css",
-    "static/js/main.cd783489.js"
+    "static/js/main.7fc584e2.js"
   ]
 }
