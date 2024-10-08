@@ -1,5 +1,11 @@
 ## Movie App Project
 
+## Live Demo
+
+You can view the live version of the app at the following link:
+
+[Live Demo](https://<username>.github.io/moviesApp/)
+
 This project is a React-based movie application that allows users to view and edit movie details. It was developed following the instructions from *Fundamentals of Web Development (3rd Edition)*. 
 
 ### Exercise Overview
