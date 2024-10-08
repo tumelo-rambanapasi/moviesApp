@@ -1,7 +1,7 @@
 ## Live Demo
 
 You can view the live version of the app at the following link:
-[Live Demo](https://<username>.github.io/moviesApp/)
+[Live Demo](https://tumelo-rambanapasi.github.io/moviesApp/)
 
 ## Movie App Project
 
